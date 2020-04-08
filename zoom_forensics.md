@@ -49,8 +49,17 @@
 
 ![](./image/result.PNG)
 
-## 0x03 Export pcap
+## Export all packets
 
-Export the UDP packets
+
 
 ![](./image/result2.png)
+
+
+
+## Export filter packets
+
+Export the UDP packets
+- [File] -> [Export Specified Packets...]
+
+![](./image/result3.png)
