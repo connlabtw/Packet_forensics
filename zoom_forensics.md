@@ -1,4 +1,4 @@
-# HW2 zoom network packet simple forensics
+# zoom network packet simple forensics
 
 ## Wireshark install
 
